@@ -1,6 +1,6 @@
 # Bienvenido a mi perfil de GitHub
 
-¡Hola! Soy Héctor Barriga (usuario nerozama). Soy estudiante de ingeniería en ciberseguridad apasionado por la programación y la investigación en general.
+¡Hola! Soy Héctor Barriga (el nero, pa los amigos). Soy estudiante de ingeniería en ciberseguridad apasionado por la programación y la investigación en general.
 
 ## Proyectos personales
 - **Auditoría de Red con Nmap**: Desarrollando un script para análisis de vulnerabilidades y seguridad.
