@@ -13,7 +13,7 @@
 - Desarrollo de Aplicaciones
 
 ## Contacto
-- [LinkedIn](https://www.linkedin.com/in/hectorbarriga/)
+- [LinkedIn](https://www.linkedin.com/in/h%C3%A9ctor-barriga-riveros-695871199/)
 
 
 ¡Gracias por visitar mi perfil!
